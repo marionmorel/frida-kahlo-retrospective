@@ -24,3 +24,6 @@ print(audio_tour_number)
 
 # Task 7
 master_list = list(zip(audio_tour_number, paintings))
+
+# Task 8
+print(master_list)
