@@ -13,3 +13,7 @@ paintings.append(("The Broken Column", 1944))
 paintings.append(("The Wounded Deer", 1946))
 paintings.append(("Me and My Doll", 1937))
 print(paintings)
+
+# Task 5
+paintings_length = len(paintings)
+print("The length of the paintings list is: " + str(paintings_length))
