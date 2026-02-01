@@ -21,3 +21,6 @@ print("The length of the paintings list is: " + str(paintings_length))
 # Task 6
 audio_tour_number = list(range(1, paintings_length + 1))
 print(audio_tour_number)
+
+# Task 7
+master_list = list(zip(audio_tour_number, paintings))
