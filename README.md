@@ -33,7 +33,7 @@ Use your knowledge of Python lists to create a master list of each painting, its
 * <code>'The Wounded Deer'</code>, <code>1946</code>
 * <code>'Me and My Doll'</code>, <code>1937</code>
 
-5.Since each of these paintings is going to be in the audio tour, they each need a unique identification number. But before we assign them a number, we first need to check how many paintings there are in total.
+5. Since each of these paintings is going to be in the audio tour, they each need a unique identification number. But before we assign them a number, we first need to check how many paintings there are in total.
 
 Find the length of the <code>paintings</code> list.
 
