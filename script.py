@@ -17,3 +17,7 @@ print(paintings)
 # Task 5
 paintings_length = len(paintings)
 print("The length of the paintings list is: " + str(paintings_length))
+
+# Task 6
+audio_tour_number = list(range(1, paintings_length + 1))
+print(audio_tour_number)
